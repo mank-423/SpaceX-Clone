@@ -3,6 +3,8 @@
 I made ths website using HTML, CSS, Javacript and Bootstrap5 for giving it the responsive design.
 Responsiveness is still not totally completed for all the screen, and is properly visible to big screens.
 
+This basically for the front-end desing copy of the website and backend is not yet introduced to this project.
+
 ![Screenshot 2022-08-12 113221](https://user-images.githubusercontent.com/96490105/184423312-cf17c442-661d-4fb4-a4dd-736063bee5a2.png)
 - The landing page for the clone.
 
