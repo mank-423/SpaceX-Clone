@@ -22,4 +22,6 @@ This basically for the front-end desing copy of the website and backend is not y
 
 And this is it for the website, as of this date, the project I started on 27th of July 2022 and is based on the design of that period. It might be possible that there will be certain changes in the SpaceX website as of now.
 <br>
+
+The link for the website is: https://mank-423.github.io/SpaceX-Clone/
 <b>Cheers!!</b>
